@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-date-countdown-timer": "^1.1.0",
+    "smart-app-banner-react": "^2.0.1"
+  }
+}
